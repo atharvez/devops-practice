@@ -1,4 +1,4 @@
-﻿# DevOps Practice ðŸ‹ï¸
+# DevOps Practice
 
 Personal sandbox for experimenting with DevOps tools and workflows.
 
@@ -13,8 +13,8 @@ Personal sandbox for experimenting with DevOps tools and workflows.
 
 ## Usage
 
-Each folder is self-contained with its own README. Navigate to the topic you want to explore.
+Each folder is self-contained. Navigate to the topic you want to explore.
 
 ## Author
 
-[Atharva Desai](https://github.com/atharvez)
+Atharva Desai
